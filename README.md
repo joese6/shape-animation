@@ -1,6 +1,6 @@
 # shape_animation
 
-A new Flutter project.
+A new Flutter project based on example in  flutter.dev documentation
 
 ## Screenshot
 ![Screenshot_145](https://user-images.githubusercontent.com/41458819/64303612-1df1eb00-cfb3-11e9-9509-2e2680bec5ff.png)
